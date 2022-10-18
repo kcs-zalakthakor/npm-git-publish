@@ -1,5 +1,5 @@
 {
-  "name": "@kcs-zalakthakor/npm-git-publish",
+  "name": "@krishcompusoft/npm-git-publish",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "repository": {
-    "url":"git://github.com/kcs-zalakthakor/npm-git-publish.git."
-  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+},
   "license": "ISC"
 }
