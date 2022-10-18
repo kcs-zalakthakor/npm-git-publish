@@ -1,5 +1,5 @@
 {
-  "name": "@kcs-zalakthakor/npm-git-publish",
+  "name": "npm-git-publish",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
